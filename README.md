@@ -1,3 +1,5 @@
+REPO: https://github.com/georgianagmanolache/wildflowerpower
+
 ## Installation
 Code runs on Python 3.10. You can create install packages from requirements/requirements.txt
 
