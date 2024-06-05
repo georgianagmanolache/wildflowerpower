@@ -1,10 +1,10 @@
 ## Installation
 Code runs on Python 3.10. You can create install packages from requirements/requirements.txt
 
+## Reproducing the dataset creation pipeline
+
+* Download the EWD data which contain both the images and annotations in .xml.
+
 ## License
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License.
-
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
-
 
