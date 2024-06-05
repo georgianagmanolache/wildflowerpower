@@ -1,0 +1,301 @@
+filename,width,height,name,xmin,ymin,xmax,ymax,pose,truncated,difficult,occluded,date,day
+20210512191444-Grassland___tile-c1.jpg,1461,1494,Buttercup * (aggregate),118,239,263,377,Unspecified,0,0,0,2021-05-12 19:14:44,132
+20210512191444-Grassland___tile-c1.jpg,1461,1494,Buttercup * (aggregate),710,462,828,584,Unspecified,0,0,0,2021-05-12 19:14:44,132
+20210513164302-Grassland___tile-b5.jpg,1409,1215,Buttercup * (aggregate),989,864,1079,952,Unspecified,0,0,0,2021-05-13 16:43:02,133
+20210513164302-Grassland___tile-b5.jpg,1409,1215,Buttercup * (aggregate),1002,762,1099,884,Unspecified,0,0,0,2021-05-13 16:43:02,133
+20210513164302-Grassland___tile-b5.jpg,1409,1215,Buttercup * (aggregate),922,692,1034,842,Unspecified,0,0,0,2021-05-13 16:43:02,133
+20210513164302-Grassland___tile-b5.jpg,1409,1215,Buttercup * (aggregate),772,602,904,729,Unspecified,0,0,0,2021-05-13 16:43:02,133
+20210513164302-Grassland___tile-b5.jpg,1409,1215,Buttercup * (aggregate),867,504,999,609,Unspecified,0,0,0,2021-05-13 16:43:02,133
+20210513164302-Grassland___tile-b5.jpg,1409,1215,Buttercup * (aggregate),1117,719,1232,834,Unspecified,0,0,0,2021-05-13 16:43:02,133
+20210513164302-Grassland___tile-b5.jpg,1409,1215,Buttercup * (aggregate),304,599,414,707,Unspecified,0,0,0,2021-05-13 16:43:02,133
+20210513164302-Grassland___tile-b5.jpg,1409,1215,Buttercup * (aggregate),859,387,992,497,Unspecified,0,0,0,2021-05-13 16:43:02,133
+20210513164302-Grassland___tile-b5.jpg,1409,1215,Buttercup * (aggregate),1047,354,1177,472,Unspecified,0,0,0,2021-05-13 16:43:02,133
+20210513164302-Grassland___tile-b5.jpg,1409,1215,Buttercup * (aggregate),929,182,1049,289,Unspecified,0,0,0,2021-05-13 16:43:02,133
+20210513164302-Grassland___tile-b5.jpg,1409,1215,Buttercup * (aggregate),252,104,427,227,Unspecified,0,0,0,2021-05-13 16:43:02,133
+20210513164302-Grassland___tile-b5.jpg,1409,1215,Buttercup * (aggregate),309,339,414,432,Unspecified,0,0,0,2021-05-13 16:43:02,133
+20210513164302-Grassland___tile-b5.jpg,1409,1215,Buttercup * (aggregate),357,294,452,372,Unspecified,0,0,0,2021-05-13 16:43:02,133
+20210513164302-Grassland___tile-b5.jpg,1409,1215,Buttercup * (aggregate),659,267,719,332,Unspecified,0,0,0,2021-05-13 16:43:02,133
+20210513164302-Grassland___tile-b5.jpg,1409,1215,Buttercup * (aggregate),627,157,732,259,Unspecified,0,0,0,2021-05-13 16:43:02,133
+20210513164817-Grassland___tile-c4.jpg,1097,1329,Buttercup * (aggregate),876,0,1004,122,Unspecified,0,0,0,2021-05-13 16:48:17,133
+20210519193920-Grassland___tile-c3.jpg,1514,1481,Buttercup * (aggregate),274,606,361,702,Unspecified,0,0,0,2021-05-19 19:39:20,139
+20210519193920-Grassland___tile-c3.jpg,1514,1481,Buttercup * (aggregate),584,51,654,114,Unspecified,0,0,0,2021-05-19 19:39:20,139
+20210519193920-Grassland___tile-c3.jpg,1514,1481,Buttercup * (aggregate),1249,346,1322,431,Unspecified,0,0,0,2021-05-19 19:39:20,139
+20210519193920-Grassland___tile-c3.jpg,1514,1481,Buttercup * (aggregate),195,1320,278,1407,Unspecified,0,0,0,2021-05-19 19:39:20,139
+20210520195053-Marsh___tile-a2.jpg,1344,1493,Buttercup * (aggregate),280,236,356,314,Unspecified,0,0,0,2021-05-20 19:50:53,140
+20210524143506-Grassland___tile-c4.jpg,1136,1621,Buttercup * (aggregate),170,819,318,966,Unspecified,0,0,0,2021-05-24 14:35:06,144
+20210524143506-Grassland___tile-c4.jpg,1136,1621,Buttercup * (aggregate),750,1096,965,1301,Unspecified,0,0,0,2021-05-24 14:35:06,144
+20210524143506-Grassland___tile-c4.jpg,1136,1621,Buttercup * (aggregate),781,601,940,773,Unspecified,0,0,0,2021-05-24 14:35:06,144
+20210524143506-Grassland___tile-c4.jpg,1136,1621,Buttercup * (aggregate),369,250,593,473,Unspecified,0,0,0,2021-05-24 14:35:06,144
+20210524143506-Grassland___tile-c4.jpg,1136,1621,Buttercup * (aggregate),400,421,613,610,Unspecified,0,0,0,2021-05-24 14:35:06,144
+20210524143506-Grassland___tile-c4.jpg,1136,1621,Buttercup * (aggregate),822,29,987,205,Unspecified,0,0,0,2021-05-24 14:35:06,144
+20210524144058-Grassland___tile-a5.jpg,1328,1541,Buttercup * (aggregate),65,1153,175,1247,Unspecified,0,0,0,2021-05-24 14:40:58,144
+20210524144058-Grassland___tile-a5.jpg,1328,1541,Buttercup * (aggregate),363,945,447,1021,Unspecified,0,0,0,2021-05-24 14:40:58,144
+20210524144058-Grassland___tile-a5.jpg,1328,1541,Buttercup * (aggregate),532,95,621,195,Unspecified,0,0,0,2021-05-24 14:40:58,144
+20210524144058-Grassland___tile-a5.jpg,1328,1541,Buttercup * (aggregate),18,400,121,508,Unspecified,0,0,0,2021-05-24 14:40:58,144
+20210524145111-Grassland___tile-b4.jpg,1344,1493,Buttercup * (aggregate),346,632,446,740,Unspecified,0,0,0,2021-05-24 14:51:11,144
+20210524145924-Grassland___tile-c1.jpg,1344,1498,Buttercup * (aggregate),1020,0,1123,100,Unspecified,0,0,0,2021-05-24 14:59:24,144
+20210524153252-Grassland___tile-c5.jpg,1181,1734,Buttercup * (aggregate),66,0,211,112,Unspecified,0,0,0,2021-05-24 15:32:52,144
+20210524153252-Grassland___tile-c5.jpg,1181,1734,Buttercup * (aggregate),151,347,246,452,Unspecified,0,0,0,2021-05-24 15:32:52,144
+20210524153252-Grassland___tile-c5.jpg,1181,1734,Buttercup * (aggregate),1021,237,1171,367,Unspecified,0,0,0,2021-05-24 15:32:52,144
+20210528191955-Grassland___tile-b1.jpg,1344,1547,Buttercup * (aggregate),628,0,743,107,Unspecified,0,0,0,2021-05-28 19:19:55,148
+20210528191955-Grassland___tile-b1.jpg,1344,1547,Buttercup * (aggregate),480,30,595,127,Unspecified,0,0,0,2021-05-28 19:19:55,148
+20210528191955-Grassland___tile-b1.jpg,1344,1547,Buttercup * (aggregate),350,197,460,300,Unspecified,0,0,0,2021-05-28 19:19:55,148
+20210528191955-Grassland___tile-b1.jpg,1344,1547,Buttercup * (aggregate),1,300,58,450,Unspecified,1,0,0,2021-05-28 19:19:55,148
+20210528191955-Grassland___tile-b1.jpg,1344,1547,Buttercup * (aggregate),520,692,653,810,Unspecified,0,0,0,2021-05-28 19:19:55,148
+20210528191955-Grassland___tile-b1.jpg,1344,1547,Buttercup * (aggregate),1230,327,1315,410,Unspecified,0,0,0,2021-05-28 19:19:55,148
+20210528191955-Grassland___tile-b1.jpg,1344,1547,Buttercup * (aggregate),1125,55,1198,127,Unspecified,0,0,0,2021-05-28 19:19:55,148
+20210528191955-Grassland___tile-b1.jpg,1344,1547,Buttercup * (aggregate),593,1395,688,1510,Unspecified,0,0,0,2021-05-28 19:19:55,148
+20210528192213-Grassland___tile-b2.jpg,1466,1375,Buttercup * (aggregate),1087,52,1253,219,Unspecified,0,0,0,2021-05-28 19:22:13,148
+20210528192213-Grassland___tile-b2.jpg,1466,1375,Buttercup * (aggregate),0,765,118,872,Unspecified,0,0,0,2021-05-28 19:22:13,148
+20210528192213-Grassland___tile-b2.jpg,1466,1375,Buttercup * (aggregate),1323,1177,1465,1325,Unspecified,0,0,0,2021-05-28 19:22:13,148
+20210528192213-Grassland___tile-c4.jpg,1297,1612,Buttercup * (aggregate),459,462,651,605,Unspecified,0,0,0,2021-05-28 19:22:13,148
+20210528192213-Grassland___tile-c4.jpg,1297,1612,Buttercup * (aggregate),677,840,781,938,Unspecified,0,0,0,2021-05-28 19:22:13,148
+20210528192213-Grassland___tile-c4.jpg,1297,1612,Buttercup * (aggregate),1194,270,1296,367,Unspecified,0,0,0,2021-05-28 19:22:13,148
+20210528192213-Grassland___tile-c4.jpg,1297,1612,Buttercup * (aggregate),1103,0,1224,111,Unspecified,0,0,0,2021-05-28 19:22:13,148
+20210528192213-Grassland___tile-c4.jpg,1297,1612,Buttercup * (aggregate),814,711,908,807,Unspecified,0,0,0,2021-05-28 19:22:13,148
+20210528193650-Grassland___tile-a1.jpg,1193,1473,Buttercup * (aggregate),123,168,243,279,Unspecified,0,0,0,2021-05-28 19:36:50,148
+20210528193650-Grassland___tile-a1.jpg,1193,1473,Buttercup * (aggregate),1,1044,208,1232,Unspecified,1,0,0,2021-05-28 19:36:50,148
+20210528193650-Grassland___tile-a1.jpg,1193,1473,Buttercup * (aggregate),78,713,203,832,Unspecified,0,0,0,2021-05-28 19:36:50,148
+20210528195755-Grassland___tile-a1.jpg,1401,1429,Buttercup * (aggregate),580,225,700,333,Unspecified,0,0,0,2021-05-28 19:57:55,148
+20210528195755-Grassland___tile-a1.jpg,1401,1429,Buttercup * (aggregate),1250,143,1400,273,Unspecified,0,0,0,2021-05-28 19:57:55,148
+20210528195755-Grassland___tile-a1.jpg,1401,1429,Buttercup * (aggregate),1246,1,1340,85,Unspecified,1,0,0,2021-05-28 19:57:55,148
+20210528195755-Grassland___tile-a1.jpg,1401,1429,Buttercup * (aggregate),278,162,378,253,Unspecified,0,0,0,2021-05-28 19:57:55,148
+20210528195755-Grassland___tile-c3.jpg,1210,1530,Buttercup * (aggregate),99,583,309,785,Unspecified,0,0,0,2021-05-28 19:57:55,148
+20210528195832-Grassland___tile-c3.jpg,1344,1441,Buttercup * (aggregate),387,593,502,705,Unspecified,0,0,0,2021-05-28 19:58:32,148
+20210530064720-Roadside___tile-a4.jpg,1446,1656,Buttercup * (aggregate),100,1528,258,1655,Unspecified,0,0,0,2021-05-30 06:47:20,150
+20210530064720-Roadside___tile-a4.jpg,1446,1656,Buttercup * (aggregate),300,1390,445,1535,Unspecified,0,0,0,2021-05-30 06:47:20,150
+20210530070105-Roadside___tile-a4.jpg,1633,1522,Buttercup * (aggregate),1088,470,1238,618,Unspecified,0,0,0,2021-05-30 07:01:05,150
+20210530070105-Roadside___tile-a4.jpg,1633,1522,Buttercup * (aggregate),1251,735,1398,905,Unspecified,0,0,0,2021-05-30 07:01:05,150
+20210602052230-Grassland___tile-b5.jpg,1271,1626,Buttercup * (aggregate),256,429,376,545,Unspecified,0,0,0,2021-06-02 05:22:30,153
+20210602052518-Grassland___tile-b1.jpg,1344,1493,Buttercup * (aggregate),223,75,295,145,Unspecified,0,0,0,2021-06-02 05:25:18,153
+20210602052518-Grassland___tile-b1.jpg,1344,1493,Buttercup * (aggregate),440,887,508,962,Unspecified,0,0,0,2021-06-02 05:25:18,153
+20210602052805-Grassland___tile-c5.jpg,1331,1463,Buttercup * (aggregate),1146,897,1241,1021,Unspecified,0,0,0,2021-06-02 05:28:05,153
+20210602052805-Grassland___tile-c5.jpg,1331,1463,Buttercup * (aggregate),1034,1293,1152,1425,Unspecified,0,0,0,2021-06-02 05:28:05,153
+20210602052805-Grassland___tile-c5.jpg,1331,1463,Buttercup * (aggregate),11,382,137,525,Unspecified,0,0,0,2021-06-02 05:28:05,153
+20210602053508-Grassland___tile-b4.jpg,1344,1493,Buttercup * (aggregate),578,644,720,781,Unspecified,0,0,0,2021-06-02 05:35:08,153
+20210609195045-Roadside___tile-a1.jpg,1562,1441,Buttercup * (aggregate),17,326,178,469,Unspecified,0,0,0,2021-06-09 19:50:45,160
+20220509191856-Grassland___tile-a4.jpg,1344,1577,Buttercup * (aggregate),402,1200,552,1303,Unspecified,0,0,0,2022-05-09 19:18:56,129
+20220509191856-Grassland___tile-a4.jpg,1344,1577,Buttercup * (aggregate),1161,971,1305,1088,Unspecified,0,0,0,2022-05-09 19:18:56,129
+20220509191856-Grassland___tile-a4.jpg,1344,1577,Buttercup * (aggregate),1085,318,1198,442,Unspecified,0,0,0,2022-05-09 19:18:56,129
+20220509191856-Grassland___tile-a4.jpg,1344,1577,Buttercup * (aggregate),359,262,461,373,Unspecified,0,0,0,2022-05-09 19:18:56,129
+20220509192351-Grassland___tile-a4.jpg,1398,1493,Buttercup * (aggregate),479,755,599,870,Unspecified,0,0,0,2022-05-09 19:23:51,129
+20220509192351-Grassland___tile-a4.jpg,1398,1493,Buttercup * (aggregate),663,764,806,900,Unspecified,0,0,0,2022-05-09 19:23:51,129
+20220509192351-Grassland___tile-a4.jpg,1398,1493,Buttercup * (aggregate),1247,489,1397,643,Unspecified,0,0,0,2022-05-09 19:23:51,129
+20220509192351-Grassland___tile-a4.jpg,1398,1493,Buttercup * (aggregate),975,3,1080,97,Unspecified,0,0,0,2022-05-09 19:23:51,129
+20220509193306-Grassland___tile-a2.jpg,1325,1506,Buttercup * (aggregate),1044,155,1157,227,Unspecified,0,0,0,2022-05-09 19:33:06,129
+20220518193244-Grassland___tile-b2.jpg,1656,1243,Buttercup * (aggregate),1291,1,1402,114,Unspecified,0,0,0,2022-05-18 19:32:44,138
+20220518193244-Grassland___tile-b2.jpg,1656,1243,Buttercup * (aggregate),1267,290,1375,392,Unspecified,0,0,0,2022-05-18 19:32:44,138
+20220518193244-Grassland___tile-b2.jpg,1656,1243,Buttercup * (aggregate),762,614,912,751,Unspecified,0,0,0,2022-05-18 19:32:44,138
+20220518193244-Grassland___tile-b2.jpg,1656,1243,Buttercup * (aggregate),1155,1028,1287,1158,Unspecified,0,0,0,2022-05-18 19:32:44,138
+20220521192727-Grassland___tile-c1.jpg,1344,1525,Buttercup * (aggregate),1060,1456,1158,1525,Unspecified,1,0,0,2022-05-21 19:27:27,141
+20220521192727-Grassland___tile-c1.jpg,1344,1525,Buttercup * (aggregate),108,865,206,945,Unspecified,0,0,0,2022-05-21 19:27:27,141
+20220521192727-Grassland___tile-c2.jpg,1344,1525,Buttercup * (aggregate),1198,1138,1269,1211,Unspecified,0,0,0,2022-05-21 19:27:27,141
+20220521194336-Grassland___tile-a3.jpg,1489,1512,Buttercup * (aggregate),334,598,463,714,Unspecified,0,0,0,2022-05-21 19:43:36,141
+20220521194336-Grassland___tile-a3.jpg,1489,1512,Buttercup * (aggregate),213,236,306,320,Unspecified,0,0,0,2022-05-21 19:43:36,141
+20220521194336-Grassland___tile-a3.jpg,1489,1512,Buttercup * (aggregate),1168,1075,1291,1168,Unspecified,0,0,0,2022-05-21 19:43:36,141
+20220521194336-Grassland___tile-a3.jpg,1489,1512,Buttercup * (aggregate),1356,39,1488,175,Unspecified,0,0,0,2022-05-21 19:43:36,141
+20220521195908-Grassland___tile-b3.jpg,1322,1479,Buttercup * (aggregate),824,1319,962,1453,Unspecified,0,0,0,2022-05-21 19:59:08,141
+20220521195908-Grassland___tile-b3.jpg,1322,1479,Buttercup * (aggregate),844,660,942,756,Unspecified,0,0,0,2022-05-21 19:59:08,141
+20220521200621-Grassland___tile-b5.jpg,1309,1461,Buttercup * (aggregate),274,1186,390,1282,Unspecified,0,0,0,2022-05-21 20:06:21,141
+20220606184539-Marsh___tile-a1.jpg,1344,1228,Buttercup * (aggregate),1031,675,1167,736,Unspecified,0,0,0,2022-06-06 18:45:39,157
+20220606184539-Marsh___tile-a1.jpg,1344,1228,Buttercup * (aggregate),1211,621,1324,792,Unspecified,0,0,0,2022-06-06 18:45:39,157
+20210403170641-Grassland___tile-a3.jpg,1079,1543,Caltha palustris,270,833,523,1034,Unspecified,0,0,0,2021-04-03 17:06:41,93
+20210403171008-Grassland___tile-a1.jpg,1344,1744,Caltha palustris,547,1213,885,1587,Unspecified,0,0,0,2021-04-03 17:10:08,93
+20210403172046-Grassland___tile-b2.jpg,1288,1291,Caltha palustris,13,1,268,139,Unspecified,0,0,0,2021-04-03 17:20:46,93
+20210403172140-Grassland___tile-c4.jpg,1344,1740,Caltha palustris,534,0,723,208,Unspecified,0,0,0,2021-04-03 17:21:40,93
+20210403172140-Grassland___tile-c4.jpg,1344,1740,Caltha palustris,1164,1038,1325,1221,Unspecified,0,0,0,2021-04-03 17:21:40,93
+20210403172140-Grassland___tile-c4.jpg,1344,1740,Caltha palustris,133,1596,331,1740,Unspecified,1,0,0,2021-04-03 17:21:40,93
+20210403172530-Grassland___tile-a1.jpg,1424,1493,Caltha palustris,926,327,1143,579,Unspecified,0,0,0,2021-04-03 17:25:30,93
+20210403172530-Grassland___tile-a4.jpg,1609,1493,Caltha palustris,677,342,832,503,Unspecified,0,0,0,2021-04-03 17:25:30,93
+20210403172530-Grassland___tile-c5.jpg,1344,1476,Caltha palustris,535,302,790,551,Unspecified,0,0,0,2021-04-03 17:25:30,93
+20210403172530-Grassland___tile-c5.jpg,1344,1476,Caltha palustris,672,32,987,340,Unspecified,0,0,0,2021-04-03 17:25:30,93
+20210404183423-Grassland___tile-a3.jpg,1372,1228,Caltha palustris,303,855,818,1228,Unspecified,0,0,0,2021-04-04 18:34:23,94
+20210404183423-Grassland___tile-a3.jpg,1372,1228,Caltha palustris,184,497,660,930,Unspecified,0,0,0,2021-04-04 18:34:23,94
+20210404183423-Grassland___tile-a3.jpg,1372,1228,Caltha palustris,312,343,736,661,Unspecified,0,0,0,2021-04-04 18:34:23,94
+20210404183423-Grassland___tile-a5.jpg,1344,1228,Caltha palustris,223,770,608,1152,Unspecified,0,0,0,2021-04-04 18:34:23,94
+20210406072019-Grassland___tile-c2.jpg,1426,1494,Caltha palustris,161,126,379,323,Unspecified,0,0,0,2021-04-06 07:20:19,96
+20210406072019-Grassland___tile-c4.jpg,1306,1494,Caltha palustris,176,244,488,563,Unspecified,0,0,0,2021-04-06 07:20:19,96
+20210406072019-Grassland___tile-c4.jpg,1306,1494,Caltha palustris,585,196,773,378,Unspecified,0,0,0,2021-04-06 07:20:19,96
+20210406072217-Grassland___tile-c3.jpg,1816,1531,Caltha palustris,1302,34,1633,403,Unspecified,0,0,0,2021-04-06 07:22:17,96
+20210406072217-Grassland___tile-c3.jpg,1816,1531,Caltha palustris,898,246,1389,664,Unspecified,0,0,0,2021-04-06 07:22:17,96
+20210406072217-Grassland___tile-c3.jpg,1816,1531,Caltha palustris,419,620,828,908,Unspecified,0,0,0,2021-04-06 07:22:17,96
+20210414162737-Grassland___tile-a2.jpg,1572,1493,Caltha palustris,409,870,593,1058,Unspecified,0,0,0,2021-04-14 16:27:37,104
+20210414162737-Grassland___tile-b1.jpg,1079,1377,Caltha palustris,366,949,560,1146,Unspecified,0,0,0,2021-04-14 16:27:37,104
+20210414162737-Grassland___tile-c1.jpg,1079,1610,Caltha palustris,854,388,1014,578,Unspecified,0,0,0,2021-04-14 16:27:37,104
+20210414162917-Grassland___tile-c5.jpg,1204,1718,Caltha palustris,889,0,1036,129,Unspecified,0,0,0,2021-04-14 16:29:17,104
+20210414162917-Grassland___tile-c5.jpg,1204,1718,Caltha palustris,589,262,744,386,Unspecified,0,0,0,2021-04-14 16:29:17,104
+20210414162917-Grassland___tile-c5.jpg,1204,1718,Caltha palustris,289,951,434,1089,Unspecified,0,0,0,2021-04-14 16:29:17,104
+20210414163041-Grassland___tile-b2.jpg,1186,1710,Caltha palustris,0,874,236,1157,Unspecified,0,0,0,2021-04-14 16:30:41,104
+20210414163041-Grassland___tile-b2.jpg,1186,1710,Caltha palustris,197,787,480,1095,Unspecified,0,0,0,2021-04-14 16:30:41,104
+20210414163041-Grassland___tile-b2.jpg,1186,1710,Caltha palustris,732,731,971,974,Unspecified,0,0,0,2021-04-14 16:30:41,104
+20210414163041-Grassland___tile-b3.jpg,1531,1710,Caltha palustris,333,0,594,209,Unspecified,0,0,0,2021-04-14 16:30:41,104
+20210414163041-Grassland___tile-b3.jpg,1531,1710,Caltha palustris,190,679,450,900,Unspecified,0,0,0,2021-04-14 16:30:41,104
+20210414163041-Grassland___tile-b3.jpg,1531,1710,Caltha palustris,155,1174,455,1513,Unspecified,0,0,0,2021-04-14 16:30:41,104
+20210414163041-Grassland___tile-b3.jpg,1531,1710,Caltha palustris,1032,761,1215,979,Unspecified,0,0,0,2021-04-14 16:30:41,104
+20210414163041-Grassland___tile-b3.jpg,1531,1710,Caltha palustris,928,305,1163,635,Unspecified,0,0,0,2021-04-14 16:30:41,104
+20210414163041-Grassland___tile-b3.jpg,1531,1710,Caltha palustris,268,1326,498,1566,Unspecified,0,0,0,2021-04-14 16:30:41,104
+20210414163154-Grassland___tile-c1.jpg,1344,1692,Caltha palustris,1,606,166,776,Unspecified,1,0,0,2021-04-14 16:31:54,104
+20210512191710-Grassland___tile-b4.jpg,1377,1706,Caltha palustris,603,1470,808,1705,Unspecified,0,0,0,2021-05-12 19:17:10,132
+20210512191710-Grassland___tile-b4.jpg,1377,1706,Caltha palustris,0,263,148,460,Unspecified,0,0,0,2021-05-12 19:17:10,132
+20210512191710-Grassland___tile-b4.jpg,1377,1706,Caltha palustris,588,575,739,763,Unspecified,0,0,0,2021-05-12 19:17:10,132
+20220323183227-Marsh___tile-b4.jpg,1344,1493,Caltha palustris,338,625,473,813,Unspecified,0,0,0,2022-03-23 18:32:27,82
+20220409185218-Grassland___tile-a2.jpg,1406,1504,Caltha palustris,215,150,365,315,Unspecified,0,0,0,2022-04-09 18:52:18,99
+20220409185218-Grassland___tile-a2.jpg,1406,1504,Caltha palustris,146,1002,253,1105,Unspecified,0,0,0,2022-04-09 18:52:18,99
+20220409185218-Grassland___tile-a2.jpg,1406,1504,Caltha palustris,482,1044,597,1174,Unspecified,0,0,0,2022-04-09 18:52:18,99
+20220409185218-Grassland___tile-a2.jpg,1406,1504,Caltha palustris,541,946,635,1056,Unspecified,0,0,0,2022-04-09 18:52:18,99
+20220409185218-Grassland___tile-a2.jpg,1406,1504,Caltha palustris,518,403,641,541,Unspecified,0,0,0,2022-04-09 18:52:18,99
+20220409185218-Grassland___tile-a2.jpg,1406,1504,Caltha palustris,946,5,1070,100,Unspecified,0,0,0,2022-04-09 18:52:18,99
+20220409185218-Grassland___tile-a2.jpg,1406,1504,Caltha palustris,1124,20,1256,94,Unspecified,0,0,0,2022-04-09 18:52:18,99
+20220409185218-Grassland___tile-a4.jpg,1079,1504,Caltha palustris,793,1382,911,1503,Unspecified,0,0,0,2022-04-09 18:52:18,99
+20220409185218-Grassland___tile-b2.jpg,1406,1421,Caltha palustris,712,278,812,403,Unspecified,0,0,0,2022-04-09 18:52:18,99
+20220409185218-Grassland___tile-b2.jpg,1406,1421,Caltha palustris,592,342,722,474,Unspecified,0,0,0,2022-04-09 18:52:18,99
+20220409185218-Grassland___tile-b2.jpg,1406,1421,Caltha palustris,615,749,785,917,Unspecified,0,0,0,2022-04-09 18:52:18,99
+20220409185218-Grassland___tile-b2.jpg,1406,1421,Caltha palustris,900,762,1065,911,Unspecified,0,0,0,2022-04-09 18:52:18,99
+20220409185218-Grassland___tile-b2.jpg,1406,1421,Caltha palustris,434,301,568,389,Unspecified,0,0,0,2022-04-09 18:52:18,99
+20220409185218-Grassland___tile-b2.jpg,1406,1421,Caltha palustris,290,327,428,494,Unspecified,0,0,0,2022-04-09 18:52:18,99
+20220409185218-Grassland___tile-b2.jpg,1406,1421,Caltha palustris,0,210,122,335,Unspecified,0,0,0,2022-04-09 18:52:18,99
+20220409185218-Grassland___tile-b3.jpg,1324,1421,Caltha palustris,753,378,912,543,Unspecified,0,0,0,2022-04-09 18:52:18,99
+20220409185308-Grassland___tile-a2.jpg,1530,1496,Caltha palustris,26,303,226,491,Unspecified,0,0,0,2022-04-09 18:53:08,99
+20220409185308-Grassland___tile-a2.jpg,1530,1496,Caltha palustris,411,971,540,1100,Unspecified,0,0,0,2022-04-09 18:53:08,99
+20220409185308-Grassland___tile-a2.jpg,1530,1496,Caltha palustris,1063,898,1205,1056,Unspecified,0,0,0,2022-04-09 18:53:08,99
+20220409185308-Grassland___tile-a2.jpg,1530,1496,Caltha palustris,1228,898,1394,1071,Unspecified,0,0,0,2022-04-09 18:53:08,99
+20220409185308-Grassland___tile-a2.jpg,1530,1496,Caltha palustris,1263,769,1379,914,Unspecified,0,0,0,2022-04-09 18:53:08,99
+20220409185308-Grassland___tile-a2.jpg,1530,1496,Caltha palustris,1360,790,1469,900,Unspecified,0,0,0,2022-04-09 18:53:08,99
+20220409185544-Grassland___tile-c2.jpg,1371,1495,Caltha palustris,1093,0,1258,221,Unspecified,0,0,0,2022-04-09 18:55:44,99
+20220409185544-Grassland___tile-c2.jpg,1371,1495,Caltha palustris,513,47,693,247,Unspecified,0,0,0,2022-04-09 18:55:44,99
+20220409185624-Grassland___tile-c3.jpg,1312,1494,Caltha palustris,405,879,620,1046,Unspecified,0,0,0,2022-04-09 18:56:24,99
+20220409185624-Grassland___tile-c3.jpg,1312,1494,Caltha palustris,55,132,179,232,Unspecified,0,0,0,2022-04-09 18:56:24,99
+20220409185624-Grassland___tile-c3.jpg,1312,1494,Caltha palustris,1032,330,1137,437,Unspecified,0,0,0,2022-04-09 18:56:24,99
+20220409190049-Grassland___tile-a3.jpg,1276,1542,Caltha palustris,362,271,502,429,Unspecified,0,0,0,2022-04-09 19:00:49,99
+20220409190049-Grassland___tile-a3.jpg,1276,1542,Caltha palustris,1125,1015,1275,1159,Unspecified,0,0,0,2022-04-09 19:00:49,99
+20220409190049-Grassland___tile-b4.jpg,1341,1530,Caltha palustris,791,246,978,442,Unspecified,0,0,0,2022-04-09 19:00:49,99
+20220409190049-Grassland___tile-b4.jpg,1341,1530,Caltha palustris,1026,202,1258,405,Unspecified,0,0,0,2022-04-09 19:00:49,99
+20220410063219-Grassland___tile-b2.jpg,1353,1242,Caltha palustris,349,66,590,304,Unspecified,0,0,0,2022-04-10 06:32:19,100
+20220410063219-Grassland___tile-b2.jpg,1353,1242,Caltha palustris,1090,707,1352,922,Unspecified,0,0,0,2022-04-10 06:32:19,100
+20220410063219-Grassland___tile-b2.jpg,1353,1242,Caltha palustris,487,604,811,922,Unspecified,0,0,0,2022-04-10 06:32:19,100
+20220410063219-Grassland___tile-b2.jpg,1353,1242,Caltha palustris,196,378,517,769,Unspecified,0,0,0,2022-04-10 06:32:19,100
+20220410064333-Grassland___tile-b4.jpg,1453,1493,Caltha palustris,1197,1013,1452,1281,Unspecified,0,0,0,2022-04-10 06:43:33,100
+20220410064333-Grassland___tile-b4.jpg,1453,1493,Caltha palustris,676,657,873,907,Unspecified,0,0,0,2022-04-10 06:43:33,100
+20220410064333-Grassland___tile-b4.jpg,1453,1493,Caltha palustris,0,919,279,1239,Unspecified,0,0,0,2022-04-10 06:43:33,100
+20220410064421-Grassland___tile-a5.jpg,1415,1385,Caltha palustris,0,1203,259,1371,Unspecified,0,0,0,2022-04-10 06:44:21,100
+20220410064701-Grassland___tile-c1.jpg,1148,1709,Caltha palustris,185,1244,399,1443,Unspecified,0,0,0,2022-04-10 06:47:01,100
+20220423193239-Grassland___tile-b1.jpg,1395,1538,Caltha palustris,1060,175,1269,368,Unspecified,0,0,0,2022-04-23 19:32:39,113
+20220423193239-Grassland___tile-b1.jpg,1395,1538,Caltha palustris,556,962,751,1196,Unspecified,0,0,0,2022-04-23 19:32:39,113
+20220423193239-Grassland___tile-b1.jpg,1395,1538,Caltha palustris,551,1143,735,1302,Unspecified,0,0,0,2022-04-23 19:32:39,113
+20220423193239-Grassland___tile-b1.jpg,1395,1538,Caltha palustris,1049,1041,1165,1193,Unspecified,0,0,0,2022-04-23 19:32:39,113
+20220423193239-Grassland___tile-b1.jpg,1395,1538,Caltha palustris,1115,1300,1288,1487,Unspecified,0,0,0,2022-04-23 19:32:39,113
+20220423193239-Grassland___tile-b2.jpg,1300,1538,Caltha palustris,517,1393,681,1537,Unspecified,0,0,0,2022-04-23 19:32:39,113
+20220423193239-Grassland___tile-b2.jpg,1300,1538,Caltha palustris,1106,843,1299,996,Unspecified,0,0,0,2022-04-23 19:32:39,113
+20220423193345-Grassland___tile-b2.jpg,1361,1616,Caltha palustris,60,200,255,378,Unspecified,0,0,0,2022-04-23 19:33:45,113
+20220423193345-Grassland___tile-b2.jpg,1361,1616,Caltha palustris,141,55,321,221,Unspecified,0,0,0,2022-04-23 19:33:45,113
+20220423193345-Grassland___tile-b2.jpg,1361,1616,Caltha palustris,530,0,664,119,Unspecified,0,0,0,2022-04-23 19:33:45,113
+20220423193345-Grassland___tile-b2.jpg,1361,1616,Caltha palustris,1199,872,1360,1032,Unspecified,0,0,0,2022-04-23 19:33:45,113
+20220423193345-Grassland___tile-b2.jpg,1361,1616,Caltha palustris,433,1012,664,1235,Unspecified,0,0,0,2022-04-23 19:33:45,113
+20220423193345-Grassland___tile-b2.jpg,1361,1616,Caltha palustris,94,600,271,812,Unspecified,0,0,0,2022-04-23 19:33:45,113
+20220423193345-Grassland___tile-b4.jpg,1329,1616,Caltha palustris,992,0,1131,153,Unspecified,0,0,0,2022-04-23 19:33:45,113
+20220423193345-Grassland___tile-b4.jpg,1329,1616,Caltha palustris,691,1287,872,1487,Unspecified,0,0,0,2022-04-23 19:33:45,113
+20220423193345-Grassland___tile-b4.jpg,1329,1616,Caltha palustris,864,771,1028,1003,Unspecified,0,0,0,2022-04-23 19:33:45,113
+20220423193345-Grassland___tile-b4.jpg,1329,1616,Caltha palustris,157,1285,294,1445,Unspecified,0,0,0,2022-04-23 19:33:45,113
+20220426185903-Grassland___tile-a3.jpg,1082,1493,Caltha palustris,842,1106,1025,1277,Unspecified,0,0,0,2022-04-26 18:59:03,116
+20220426185903-Grassland___tile-a3.jpg,1082,1493,Caltha palustris,686,593,834,747,Unspecified,0,0,0,2022-04-26 18:59:03,116
+20220426185903-Grassland___tile-a3.jpg,1082,1493,Caltha palustris,364,236,548,406,Unspecified,0,0,0,2022-04-26 18:59:03,116
+20210402140433-Roadside___tile-a2.jpg,1565,1625,Ficaria verna,0,1415,255,1624,Unspecified,0,0,0,2021-04-02 14:04:33,92
+20210402140433-Roadside___tile-c5.jpg,1344,1501,Ficaria verna,187,918,387,1091,Unspecified,0,0,0,2021-04-02 14:04:33,92
+20210402144117-Roadside___tile-c5.jpg,1344,1693,Ficaria verna,27,209,305,492,Unspecified,0,0,0,2021-04-02 14:41:17,92
+20220316144543-Marsh___tile-c3.jpg,1609,1484,Ficaria verna,311,141,488,355,Unspecified,0,0,0,2022-03-16 14:45:43,75
+20220316144543-Marsh___tile-c3.jpg,1609,1484,Ficaria verna,999,432,1188,618,Unspecified,0,0,0,2022-03-16 14:45:43,75
+20220316144543-Marsh___tile-c3.jpg,1609,1484,Ficaria verna,888,185,1041,330,Unspecified,0,0,0,2022-03-16 14:45:43,75
+20220316144543-Marsh___tile-c3.jpg,1609,1484,Ficaria verna,595,1320,757,1476,Unspecified,0,0,0,2022-03-16 14:45:43,75
+20220316144543-Marsh___tile-c3.jpg,1609,1484,Ficaria verna,1436,916,1583,1069,Unspecified,0,0,0,2022-03-16 14:45:43,75
+20220316144806-Marsh___tile-a1.jpg,1375,1535,Ficaria verna,13,486,84,555,Unspecified,0,0,0,2022-03-16 14:48:06,75
+20220316144806-Marsh___tile-a1.jpg,1375,1535,Ficaria verna,636,881,711,960,Unspecified,0,0,0,2022-03-16 14:48:06,75
+20220316144806-Marsh___tile-a1.jpg,1375,1535,Ficaria verna,284,145,376,219,Unspecified,0,0,0,2022-03-16 14:48:06,75
+20220316144806-Marsh___tile-a1.jpg,1375,1535,Ficaria verna,491,721,567,787,Unspecified,0,0,0,2022-03-16 14:48:06,75
+20220316144806-Marsh___tile-a1.jpg,1375,1535,Ficaria verna,503,506,552,558,Unspecified,0,0,0,2022-03-16 14:48:06,75
+20220316144806-Marsh___tile-a1.jpg,1375,1535,Ficaria verna,625,228,708,296,Unspecified,0,0,0,2022-03-16 14:48:06,75
+20220316144806-Marsh___tile-a1.jpg,1375,1535,Ficaria verna,690,240,750,298,Unspecified,0,0,0,2022-03-16 14:48:06,75
+20220316144806-Marsh___tile-a1.jpg,1375,1535,Ficaria verna,890,177,956,247,Unspecified,0,0,0,2022-03-16 14:48:06,75
+20220316144806-Marsh___tile-a1.jpg,1375,1535,Ficaria verna,1010,247,1086,306,Unspecified,0,0,0,2022-03-16 14:48:06,75
+20220316144806-Marsh___tile-a1.jpg,1375,1535,Ficaria verna,980,553,1074,670,Unspecified,0,0,0,2022-03-16 14:48:06,75
+20220316144806-Marsh___tile-a1.jpg,1375,1535,Ficaria verna,1054,1334,1148,1425,Unspecified,0,0,0,2022-03-16 14:48:06,75
+20220316144806-Marsh___tile-a1.jpg,1375,1535,Ficaria verna,1203,674,1278,740,Unspecified,0,0,0,2022-03-16 14:48:06,75
+20220316144806-Marsh___tile-a1.jpg,1375,1535,Ficaria verna,622,117,676,174,Unspecified,0,0,0,2022-03-16 14:48:06,75
+20220316144806-Marsh___tile-a1.jpg,1375,1535,Ficaria verna,1299,826,1374,902,Unspecified,0,0,0,2022-03-16 14:48:06,75
+20220316144806-Marsh___tile-a1.jpg,1375,1535,Ficaria verna,1122,815,1203,879,Unspecified,0,0,0,2022-03-16 14:48:06,75
+20220316144806-Marsh___tile-a1.jpg,1375,1535,Ficaria verna,1095,440,1161,496,Unspecified,0,0,0,2022-03-16 14:48:06,75
+20220316144806-Marsh___tile-a4.jpg,1248,1535,Ficaria verna,1115,775,1171,848,Unspecified,0,0,0,2022-03-16 14:48:06,75
+20220316144806-Marsh___tile-a4.jpg,1248,1535,Ficaria verna,680,319,774,392,Unspecified,0,0,0,2022-03-16 14:48:06,75
+20220316144806-Marsh___tile-a4.jpg,1248,1535,Ficaria verna,367,244,463,344,Unspecified,0,0,0,2022-03-16 14:48:06,75
+20220316144806-Marsh___tile-a4.jpg,1248,1535,Ficaria verna,118,790,234,879,Unspecified,0,0,0,2022-03-16 14:48:06,75
+20220316144806-Marsh___tile-a4.jpg,1248,1535,Ficaria verna,348,1233,434,1313,Unspecified,0,0,0,2022-03-16 14:48:06,75
+20220316144806-Marsh___tile-a4.jpg,1248,1535,Ficaria verna,390,905,482,1003,Unspecified,0,0,0,2022-03-16 14:48:06,75
+20220316144806-Marsh___tile-a4.jpg,1248,1535,Ficaria verna,310,868,407,944,Unspecified,0,0,0,2022-03-16 14:48:06,75
+20220316144806-Marsh___tile-a4.jpg,1248,1535,Ficaria verna,410,362,466,417,Unspecified,0,0,0,2022-03-16 14:48:06,75
+20220316144806-Marsh___tile-a4.jpg,1248,1535,Ficaria verna,302,411,380,498,Unspecified,0,0,0,2022-03-16 14:48:06,75
+20220316144806-Marsh___tile-a4.jpg,1248,1535,Ficaria verna,85,419,172,513,Unspecified,0,0,0,2022-03-16 14:48:06,75
+20220316144806-Marsh___tile-a4.jpg,1248,1535,Ficaria verna,42,527,109,592,Unspecified,0,0,0,2022-03-16 14:48:06,75
+20220316144806-Marsh___tile-a4.jpg,1248,1535,Ficaria verna,7,610,80,681,Unspecified,0,0,0,2022-03-16 14:48:06,75
+20220316145102-Marsh___tile-a4.jpg,1384,1443,Ficaria verna,51,1226,193,1395,Unspecified,0,0,0,2022-03-16 14:51:02,75
+20220316145102-Marsh___tile-a4.jpg,1384,1443,Ficaria verna,323,1149,426,1309,Unspecified,0,0,0,2022-03-16 14:51:02,75
+20220316145102-Marsh___tile-a4.jpg,1384,1443,Ficaria verna,0,749,119,867,Unspecified,0,0,0,2022-03-16 14:51:02,75
+20220316145102-Marsh___tile-a4.jpg,1384,1443,Ficaria verna,623,1088,719,1223,Unspecified,0,0,0,2022-03-16 14:51:02,75
+20220316145102-Marsh___tile-a4.jpg,1384,1443,Ficaria verna,726,821,858,972,Unspecified,0,0,0,2022-03-16 14:51:02,75
+20220316145102-Marsh___tile-a4.jpg,1384,1443,Ficaria verna,726,995,816,1109,Unspecified,0,0,0,2022-03-16 14:51:02,75
+20220316145102-Marsh___tile-a4.jpg,1384,1443,Ficaria verna,777,1033,860,1119,Unspecified,0,0,0,2022-03-16 14:51:02,75
+20220316145102-Marsh___tile-a4.jpg,1384,1443,Ficaria verna,1151,891,1277,1021,Unspecified,0,0,0,2022-03-16 14:51:02,75
+20220316145102-Marsh___tile-b3.jpg,1304,1543,Ficaria verna,632,17,697,99,Unspecified,0,0,0,2022-03-16 14:51:02,75
+20220316145102-Marsh___tile-b3.jpg,1304,1543,Ficaria verna,762,41,885,134,Unspecified,0,0,0,2022-03-16 14:51:02,75
+20220316145102-Marsh___tile-b3.jpg,1304,1543,Ficaria verna,925,1,1060,127,Unspecified,0,0,0,2022-03-16 14:51:02,75
+20220316145102-Marsh___tile-b3.jpg,1304,1543,Ficaria verna,1102,66,1246,222,Unspecified,0,0,0,2022-03-16 14:51:02,75
+20220316145102-Marsh___tile-b3.jpg,1304,1543,Ficaria verna,583,220,716,359,Unspecified,0,0,0,2022-03-16 14:51:02,75
+20220316145102-Marsh___tile-b3.jpg,1304,1543,Ficaria verna,258,301,409,457,Unspecified,0,0,0,2022-03-16 14:51:02,75
+20220316145102-Marsh___tile-b3.jpg,1304,1543,Ficaria verna,318,380,453,483,Unspecified,0,0,0,2022-03-16 14:51:02,75
+20220316145102-Marsh___tile-b3.jpg,1304,1543,Ficaria verna,1020,627,1141,736,Unspecified,0,0,0,2022-03-16 14:51:02,75
+20220316145102-Marsh___tile-b3.jpg,1304,1543,Ficaria verna,239,734,339,838,Unspecified,0,0,0,2022-03-16 14:51:02,75
+20220316145102-Marsh___tile-c2.jpg,1223,1494,Ficaria verna,871,277,1041,440,Unspecified,0,0,0,2022-03-16 14:51:02,75
+20220316145211-Marsh___tile-b5.jpg,1218,1203,Ficaria verna,795,650,969,797,Unspecified,0,0,0,2022-03-16 14:52:11,75
+20220316145310-Marsh___tile-a2.jpg,1322,1538,Ficaria verna,1102,1386,1302,1537,Unspecified,0,0,0,2022-03-16 14:53:10,75
+20220316145310-Marsh___tile-a5.jpg,1609,1538,Ficaria verna,1181,1316,1367,1477,Unspecified,0,0,0,2022-03-16 14:53:10,75
+20220316145310-Marsh___tile-a5.jpg,1609,1538,Ficaria verna,1297,495,1467,670,Unspecified,0,0,0,2022-03-16 14:53:10,75
+20220316145310-Marsh___tile-a5.jpg,1609,1538,Ficaria verna,121,126,269,314,Unspecified,0,0,0,2022-03-16 14:53:10,75
+20220316145359-Marsh___tile-b2.jpg,1307,1466,Ficaria verna,97,113,278,280,Unspecified,0,0,0,2022-03-16 14:53:59,75
+20220316145359-Marsh___tile-b2.jpg,1307,1466,Ficaria verna,1148,1257,1304,1464,Unspecified,0,0,0,2022-03-16 14:53:59,75
+20220316145359-Marsh___tile-b2.jpg,1307,1466,Ficaria verna,1111,852,1304,1029,Unspecified,0,0,0,2022-03-16 14:53:59,75
+20220316145359-Marsh___tile-b2.jpg,1307,1466,Ficaria verna,957,196,1197,399,Unspecified,0,0,0,2022-03-16 14:53:59,75
+20220323072454-Marsh___tile-c3.jpg,1412,1494,Ficaria verna,1114,229,1238,346,Unspecified,0,0,0,2022-03-23 07:24:54,82
+20220323072713-Marsh___tile-b2.jpg,1344,1457,Ficaria verna,834,1227,997,1385,Unspecified,0,0,0,2022-03-23 07:27:13,82
+20220323180431-Marsh___tile-c2.jpg,1364,1494,Ficaria verna,0,316,97,414,Unspecified,0,0,0,2022-03-23 18:04:31,82
+20220323181619-Marsh___tile-a3.jpg,1369,1493,Ficaria verna,1146,224,1368,378,Unspecified,0,0,0,2022-03-23 18:16:19,82
+20220323181635-Marsh___tile-b4.jpg,1344,1447,Ficaria verna,839,776,1077,982,Unspecified,0,0,0,2022-03-23 18:16:35,82
+20220323181740-Marsh___tile-b2.jpg,1344,1493,Ficaria verna,964,180,1120,339,Unspecified,0,0,0,2022-03-23 18:17:40,82
+20220323181740-Marsh___tile-b2.jpg,1344,1493,Ficaria verna,140,1010,426,1131,Unspecified,0,0,0,2022-03-23 18:17:40,82
+20220323181740-Marsh___tile-b2.jpg,1344,1493,Ficaria verna,1105,1119,1226,1319,Unspecified,0,0,0,2022-03-23 18:17:40,82
+20220323182014-Marsh___tile-b2.jpg,1344,1493,Ficaria verna,996,986,1181,1181,Unspecified,0,0,0,2022-03-23 18:20:14,82
+20220323182014-Marsh___tile-b3.jpg,1344,1493,Ficaria verna,402,657,593,831,Unspecified,0,0,0,2022-03-23 18:20:14,82
+20220323182014-Marsh___tile-b3.jpg,1344,1493,Ficaria verna,417,1131,667,1310,Unspecified,0,0,0,2022-03-23 18:20:14,82
+20220323182141-Marsh___tile-b1.jpg,1344,1493,Ficaria verna,875,560,1067,760,Unspecified,0,0,0,2022-03-23 18:21:41,82
+20220323182141-Marsh___tile-c3.jpg,1361,1494,Ficaria verna,843,143,1000,302,Unspecified,0,0,0,2022-03-23 18:21:41,82
+20220323182141-Marsh___tile-c3.jpg,1361,1494,Ficaria verna,0,555,220,749,Unspecified,0,0,0,2022-03-23 18:21:41,82
+20220328171451-Urban___tile-a4.jpg,1556,1622,Ficaria verna,93,656,255,806,Unspecified,0,0,0,2022-03-28 17:14:51,87
+20220328171451-Urban___tile-a4.jpg,1556,1622,Ficaria verna,308,331,461,529,Unspecified,0,0,0,2022-03-28 17:14:51,87
+20220328171451-Urban___tile-a4.jpg,1556,1622,Ficaria verna,523,1382,667,1579,Unspecified,0,0,0,2022-03-28 17:14:51,87
+20220328171451-Urban___tile-a4.jpg,1556,1622,Ficaria verna,764,310,906,488,Unspecified,0,0,0,2022-03-28 17:14:51,87
+20220328171451-Urban___tile-a4.jpg,1556,1622,Ficaria verna,900,141,1016,286,Unspecified,0,0,0,2022-03-28 17:14:51,87
+20220328171451-Urban___tile-a4.jpg,1556,1622,Ficaria verna,1091,673,1259,802,Unspecified,0,0,0,2022-03-28 17:14:51,87
+20220328171451-Urban___tile-a4.jpg,1556,1622,Ficaria verna,1164,1044,1276,1179,Unspecified,0,0,0,2022-03-28 17:14:51,87
+20220328171451-Urban___tile-b1.jpg,1273,1364,Ficaria verna,730,943,856,1102,Unspecified,0,0,0,2022-03-28 17:14:51,87
+20220328171451-Urban___tile-c4.jpg,1556,1494,Ficaria verna,102,296,302,502,Unspecified,0,0,0,2022-03-28 17:14:51,87
+20220328171451-Urban___tile-c4.jpg,1556,1494,Ficaria verna,761,336,899,464,Unspecified,0,0,0,2022-03-28 17:14:51,87
+20220328171451-Urban___tile-c4.jpg,1556,1494,Ficaria verna,1402,29,1555,214,Unspecified,0,0,0,2022-03-28 17:14:51,87
+20220328171645-Urban___tile-c4.jpg,1545,1759,Ficaria verna,1229,853,1426,1047,Unspecified,0,0,0,2022-03-28 17:16:45,87
+20220328171645-Urban___tile-c4.jpg,1545,1759,Ficaria verna,1367,1358,1544,1547,Unspecified,0,0,0,2022-03-28 17:16:45,87
+20220328171645-Urban___tile-c4.jpg,1545,1759,Ficaria verna,585,205,776,379,Unspecified,0,0,0,2022-03-28 17:16:45,87
+20220328171645-Urban___tile-c4.jpg,1545,1759,Ficaria verna,764,905,891,1058,Unspecified,0,0,0,2022-03-28 17:16:45,87
+20220328172228-Roadside___tile-c2.jpg,982,1677,Ficaria verna,82,760,236,921,Unspecified,0,0,0,2022-03-28 17:22:28,87
+20220328172228-Roadside___tile-c2.jpg,982,1677,Ficaria verna,296,726,480,879,Unspecified,0,0,0,2022-03-28 17:22:28,87
+20220328172228-Roadside___tile-c2.jpg,982,1677,Ficaria verna,648,1275,883,1507,Unspecified,0,0,0,2022-03-28 17:22:28,87
+20220328173338-Roadside___tile-c4.jpg,1427,1512,Ficaria verna,333,349,401,434,Unspecified,0,0,0,2022-03-28 17:33:38,87
+20220328173338-Roadside___tile-c4.jpg,1427,1512,Ficaria verna,565,0,691,163,Unspecified,0,0,0,2022-03-28 17:33:38,87
+20220328173338-Roadside___tile-c4.jpg,1427,1512,Ficaria verna,682,529,802,694,Unspecified,0,0,0,2022-03-28 17:33:38,87
+20220328173338-Roadside___tile-c4.jpg,1427,1512,Ficaria verna,1082,222,1203,347,Unspecified,0,0,0,2022-03-28 17:33:38,87
+20220328173338-Roadside___tile-c4.jpg,1427,1512,Ficaria verna,1249,238,1426,363,Unspecified,0,0,0,2022-03-28 17:33:38,87
